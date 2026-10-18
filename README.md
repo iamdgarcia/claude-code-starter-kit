@@ -1,5 +1,7 @@
 # Claude Code Starter Kit
 
+![Claude Code Starter Kit](./assets/cover.png)
+
 **The fastest way to set up Claude Code correctly — secure, context-aware, and ready to code.**
 
 A free template from [The Learning Curve](https://iamdgarcia.substack.com) — hands-on AI engineering, no hype.
